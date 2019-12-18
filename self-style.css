@@ -1,0 +1,198 @@
+* {
+    background-color: #EAE5E5;
+
+    /*background-image: url("brick.jpg");*/
+
+}
+
+.name {
+    font-family: "Adobe Caslon Pro";
+    font-size: 40px;
+    margin-left: 20%;
+    margin-top: 5%;
+
+}
+
+.sub-name {
+    margin-top: 0;
+    margin-left: 20%;
+}
+
+
+.my-pic {
+    height: 300px;
+    border-radius: 500%;
+    margin-left: 17%;
+    padding-right: 10px;
+}
+
+.hello {
+    font-size: 30px;
+    font-family: "Berlin Sans FB";
+}
+
+
+.circle {
+    float: left;
+    padding: 30px;
+    border-radius: 100%;
+    background-color: #EA0E50;
+    margin-left: 20px;
+    text-align: center;
+    color: white;
+}
+
+.row {
+    position: absolute;
+    margin-left: 50%;
+}
+
+
+.column {
+    float: left;
+    cursor: pointer;
+    background-color: #EA0E50;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.row div {
+    background-color: #EAE5E5;
+}
+
+
+.containerTab {
+    padding: 20px;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Closable button inside the image */
+.closebtn {
+    float: right;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.my-resume {
+    width: 1200px;
+    height: 800px;
+    position: center;
+    margin-left: 10%;
+
+}
+
+
+.p-box {
+    width: 33%;
+    height: 120px;
+    margin-top: 30px;
+    position: relative;
+    background-color: #EA0E50;
+    float: left;
+}
+.p-box {
+    width: 33%;
+    height: 120px;
+    margin-top: 30px;
+    position: relative;
+    background-color: #EA0E50;
+    float: left;
+}
+.p-box {
+    width: 33%;
+    height: 120px;
+    margin-top: 30px;
+    position: relative;
+    background-color: #EA0E50;
+    float: left;
+}
+.logo1{
+    margin-left: 180px;
+    margin-top: 35px;
+    border-radius: 20%;
+}
+.logo2 {
+    margin-left: 180px;
+    margin-top: 35px;
+    border-radius: 20%;
+}
+.logo3 {
+    margin-left: 180px;
+    margin-top: 35px;
+    border-radius: 20%;
+}
+
+.call {
+    position: absolute;
+    top: 25px;
+    margin-left: 60%;
+    background-color: #EA0E50;
+    color: white;
+    float: left;
+}
+
+.email {
+    position: absolute;
+    margin-left: 60%;
+    top: 25px;
+    background-color: #EA0E50;
+    color: white;
+}
+
+.follow {
+    position: absolute;
+    margin-left: 60%;
+    top: 25px;
+    background-color: #EA0E50;
+    color: white;
+}
+
+
+.lianxi {
+
+    text-align: center;
+}
+
+a {
+    background-color: #EA0E50;
+    color: white;
+
+}
+
+.skills{
+
+}
+table{
+    font-size: 24px;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    margin-top: 50px;
+
+}
+table td, th {
+
+    text-align: center;
+}
+
+
+.main-footer p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
